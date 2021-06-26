@@ -1,0 +1,27 @@
+{
+  "name": "Employee_Info_Gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelBal/Employee_Info_Gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelBal/Employee_Info_Gen/issues"
+  },
+  "homepage": "https://github.com/JoelBal/Employee_Info_Gen#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0",
+    "jest": "^27.0.4"
+  }
+}
